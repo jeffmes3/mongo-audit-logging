@@ -10,18 +10,13 @@ in JSON format.
 
 ## Usage
 
-```bash
-chmod +x update-mongo-logging.sh
-sudo ./update-mongo-logging.sh
-
-
-
 git clone https://github.com/<your-username>/mongo-audit-logging.git
 cd mongo-audit-logging
 chmod +x update-mongo-logging.sh
 
-
-
+```bash
+chmod +x update-mongo-logging.sh
+sudo ./update-mongo-logging.sh
 
 ## 5. Commit and push
 
